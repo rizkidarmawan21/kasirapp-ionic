@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">coba</string>
-    <string name="title_activity_main">coba</string>
-    <string name="package_name">com.coba.app</string>
-    <string name="custom_url_scheme">com.coba.app</string>
+    <string name="app_name">kasirapp</string>
+    <string name="title_activity_main">kasirapp</string>
+    <string name="package_name">com.kasirapp.app</string>
+    <string name="custom_url_scheme">com.kasirapp.app</string>
 </resources>

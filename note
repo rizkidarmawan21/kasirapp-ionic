@@ -3,3 +3,5 @@ node v22 lts
 npx cap sync
 
 npx cap init
+
+ionic capacitor run android -l --external

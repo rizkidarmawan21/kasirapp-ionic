@@ -1,4 +1,4 @@
-package com.coba.app;
+package com.kasirapp.app;
 
 import com.getcapacitor.BridgeActivity;
 
