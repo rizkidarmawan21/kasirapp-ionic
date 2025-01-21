@@ -1,1 +1,5 @@
 node v22 lts
+
+npx cap sync
+
+npx cap init

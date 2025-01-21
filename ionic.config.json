@@ -1,6 +1,8 @@
 {
   "name": "coba",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue-vite",
   "id": "f40eae06"
 }
